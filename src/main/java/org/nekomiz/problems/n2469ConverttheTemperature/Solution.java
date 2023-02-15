@@ -1,4 +1,4 @@
-package org.nekomiz.problems.ConverttheTemperature2469;
+package org.nekomiz.problems.n2469ConverttheTemperature;
 
 class Solution {
     public double[] convertTemperature(double celsius) {

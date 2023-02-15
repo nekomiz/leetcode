@@ -1,4 +1,4 @@
-package org.nekomiz.problems.BuildArrayfromPermutation1920;
+package org.nekomiz.problems.n1920BuildArrayfromPermutation;
 
 class Solution {
     public int[] buildArray(int[] nums) {

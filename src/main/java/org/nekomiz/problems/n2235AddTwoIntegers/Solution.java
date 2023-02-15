@@ -1,4 +1,4 @@
-package org.nekomiz.problems.AddTwoIntegers2235;
+package org.nekomiz.problems.n2235AddTwoIntegers;
 
 class Solution {
     public int sum(int num1, int num2) {

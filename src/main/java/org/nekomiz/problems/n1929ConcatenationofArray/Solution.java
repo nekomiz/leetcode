@@ -1,4 +1,4 @@
-package org.nekomiz.problems.ConcatenationofArray1929;
+package org.nekomiz.problems.n1929ConcatenationofArray;
 
 
 class Solution {
